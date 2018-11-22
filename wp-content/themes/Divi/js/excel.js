@@ -61,7 +61,7 @@ function getNum(){
 		// 	var m = ans[i].indexOf("1000");
 		// 	var n = ans[i].indexOf("2017");
 		// 	if(n == 0){
-				document.getElementById("quanqiu").innerHTML ="<br>请复制单号后点击<p style=\"color:orange;\"><a href='http://www.zdwex.com/'><u>http://www.zdwex.com</u></a></p>";
+				document.getElementById("quanqiu").innerHTML ="<br>请复制单号后点击以下链接查询快递信息<p style=\"color:orange;\"><a href='http://www.zdwex.com/'><u>http://www.zdwex.com</u></a></p>";
 			// }
 			
 			// if(m == 0){
